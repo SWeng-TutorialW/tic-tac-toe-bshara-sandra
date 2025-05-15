@@ -15,7 +15,7 @@
 
 	<name>server</name>
 	<!-- FIXME change it to the project's website -->
-	<url>http://www.example.com</url>
+	<url>https://github.com/SWeng-TutorialW/tic-tac-toe-bshara-sandra.git</url>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
